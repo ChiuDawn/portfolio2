@@ -228,7 +228,7 @@ body.dark-mode .moon-icon {
     cursor: pointer;
     transition: all 0.3s ease;
     font-size: 0.95rem;
-    border-radius: 50px;
+    border-radius: 50%;
 }
 
 .cta-button:hover {
