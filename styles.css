@@ -199,13 +199,13 @@ a {
     font-size: 1.2rem;
     cursor: pointer;
     transition: all 0.3s ease;
-    border-radius: 100%; 
+    border-radius: 60%; 
 }
 
 .theme-toggle:hover {
     background-color: var(--accent);
     border-color: var(--accent);
-   border-radius: 100%; 
+   border-radius: 60%; 
 
 }
 
