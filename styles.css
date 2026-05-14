@@ -303,8 +303,8 @@ body.dark-mode .hero-title {
 }
 
 .image-box {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     border: 6px solid var(--primary);
     overflow: hidden;
     position: relative;
