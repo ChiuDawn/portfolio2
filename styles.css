@@ -199,12 +199,14 @@ a {
     font-size: 1.2rem;
     cursor: pointer;
     transition: all 0.3s ease;
-    border-radius: 0; 
+    border-radius: 50%; 
 }
 
 .theme-toggle:hover {
     background-color: var(--accent);
     border-color: var(--accent);
+   border-radius: 50%; 
+
 }
 
 .moon-icon {
